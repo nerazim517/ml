@@ -1,7 +1,7 @@
 # ml學習紀錄
 * supervised learning
-  * 'linear regression model'
-  * 'logistic regression model'
+  * linear regression model
+  * logistic regression model
 * unsupervised learning
 ## 2023/01/04
 - [x] `Markdown基本操作`
